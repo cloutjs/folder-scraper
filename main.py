@@ -1,5 +1,4 @@
 import os
-from colorama import Fore
 import time 
 
 count = 0
